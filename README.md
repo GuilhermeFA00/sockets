@@ -13,22 +13,22 @@
    * [Funcionamento](#funcionamento)
 <!--te-->
 
-###instalação
+### instalação
 <h5>git clone https://github.com/GuilhermeFA00/sockets </h5>
 
-###como-usar
-###pré-requisitos
+### como-usar
+### pré-requisitos
 <h2>Ferramenta/Linguagem utilizada: Python (version >= 3.9)</h2>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="	https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-###local-files
+### local-files
 <h5>server.py(Código do servidor)</h5>
 <h5>client.py(Código do cliente)</h5>
-###como-rodar
+### como-rodar
 <h5>Abra seu terminal e execute o arquivo server.py . Ele ficará em espera. Execute o arquivo client.py. Veja os prints no terminal</h5>
 </br>
 
-###funcionamento
+### funcionamento
 <h3>Parte servidor</h3>
 <p>Quando criamos uma instância do objeto socket, passamos dois parâmetros: O primeiro parâmetro é AF_INET e o segundo é SOCK_STREAM. AF_INET refere-se à família de endereços ipv4. O SOCK_STREAM significa protocolo TCP orientado a conexão.
 Agora podemos nos conectar a um servidor usando este socket.</p>

@@ -4,30 +4,22 @@
 <h4>Guilherme Frutuoso de Almeida</h4>
 <h4>Thiago Martins Nogueira</h4>
 </br>
-<!--ts-->
-   * [Instalação](#instalação)
-   * [Como usar](#como-usar)
-      * [Pre Requisitos](#pré-requisitos)
-      * [Local files](#local-files)
-      * [Como rodar](#como-rodar)
-   * [Funcionamento](#funcionamento)
-<!--te-->
 
-### instalação
+<h2>instalação</h2>
 <h5>git clone https://github.com/GuilhermeFA00/sockets </h5>
 
-### pré-requisitos
+<h2>pré-requisitos</h2>
 <h2>Ferramenta/Linguagem utilizada: Python (version >= 3.9)</h2>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="	https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
-### local-files
+<h2>local-files</h2>
 <h5>server.py(Código do servidor)</h5>
 <h5>client.py(Código do cliente)</h5>
-### como-rodar
+<h2>como-rodar</h2>
 <h5>Abra seu terminal e execute o arquivo server.py . Ele ficará em espera. Execute o arquivo client.py. Veja os prints no terminal</h5>
 </br>
 
-### funcionamento
+<h2>Funcionamento</h2>
 <h3>Parte servidor</h3>
 <p>Quando criamos uma instância do objeto socket, passamos dois parâmetros: O primeiro parâmetro é AF_INET e o segundo é SOCK_STREAM. AF_INET refere-se à família de endereços ipv4. O SOCK_STREAM significa protocolo TCP orientado a conexão.
 Agora podemos nos conectar a um servidor usando este socket.</p>

@@ -16,7 +16,6 @@
 ### instalação
 <h5>git clone https://github.com/GuilhermeFA00/sockets </h5>
 
-### como-usar
 ### pré-requisitos
 <h2>Ferramenta/Linguagem utilizada: Python (version >= 3.9)</h2>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>

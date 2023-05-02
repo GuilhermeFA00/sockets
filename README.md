@@ -9,9 +9,9 @@
 <h5>git clone https://github.com/GuilhermeFA00/sockets </h5>
 
 <h2>pré-requisitos</h2>
-<h2>Ferramenta/Linguagem utilizada: Python (version >= 3.9)</h2>
+<h5>Ferramenta/Linguagem utilizada: Python (version >= 3.9)</h5>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img src="	https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white"/>
 <h2>local-files</h2>
 <h5>server.py(Código do servidor)</h5>
 <h5>client.py(Código do cliente)</h5>
